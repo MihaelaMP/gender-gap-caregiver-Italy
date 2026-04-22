@@ -2,8 +2,8 @@
 Analisi del divario di genere nell'inattività per motivi familiari in Italia (dati ISTAT, Power BI)
 
 📊 Donne e inattività per motivi familiari in Italia
-🎯 Obiettivo
 
+🎯 Obiettivo
 Analizzare il ruolo delle responsabilità familiari nell’inattività lavorativa e il loro contributo al divario di genere in Italia.
 
 📂 Fonte dati
@@ -32,11 +32,12 @@ Il rapporto donne/uomini è pari a 20,5x.
 Il fenomeno mostra un aumento nel periodo 2024–2025.
 
 📊 Visualizzazioni
-1.Confronto per genere (2025)
+
+1. Confronto per genere (2025)
   → le donne risultano nettamente più inattive per motivi familiari
-2.Trend temporale (2024–2025)
+2. Trend temporale (2024–2025)
   → crescita del numero di donne inattive
-3.Indicatore sintetico
+3. Indicatore sintetico
   → rapporto donne/uomini ≈ 20,5
 
 💡 Insight
